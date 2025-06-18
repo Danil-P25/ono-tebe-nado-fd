@@ -1,1 +1,0 @@
-https://github.com/Danil-P25/ono-tebe-nado-fd
