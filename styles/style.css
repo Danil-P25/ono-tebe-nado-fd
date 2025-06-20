@@ -83,7 +83,7 @@
     background: rgba(0, 0, 0, 1);
     z-index: 1;
     opacity: 0.6;
-    inset: 0; 
+    inset: 0;
 }
 
 .text-title__cover {
@@ -256,7 +256,7 @@
     text-decoration: underline;
     text-underline-offset: 5px;
     padding-top: 30px;
-    padding-left: 38px;
+    padding-left: 38.5px;
 }
 
 .about {
@@ -305,7 +305,6 @@
 .footer {
     display: grid;
     grid-template-columns: 1fr min-content 1fr;
-    margin-bottom: 500px;
     width: 1100px;
     padding-bottom: 10px;
     margin-top: 155px;
